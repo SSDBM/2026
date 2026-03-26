@@ -5,12 +5,8 @@ layout: default
 
 # Conference Venue
 
-<!-- TODO: Update venue details, address, links, and photos -->
-TBD
+University of California, San Diego <br>
+<!-- TODO: Update with specific building/room and Google Maps link when confirmed -->
+San Diego, California, USA <br>
 
-<!-- Example from 2025:
-Address: TBD
-[Google location](TBD)
--->
-
-<!-- <img src="assets/images/venue.jpeg" alt="Venue" width="800" border="0"> <br> -->
+<!-- <img src="assets/images/venue.jpeg" alt="UC San Diego" width="800" border="0"> <br> -->

@@ -5,16 +5,15 @@ layout: default
 
 # Welcome to SSDBM 2026
 
-<!-- TODO: Replace with 2026 venue photo -->
-<!-- <img src="assets/images/venue.jpeg" alt="Venue" width="800" border="0"> <br> -->
+<!-- TODO: Replace with UCSD venue photo -->
+<!-- <img src="assets/images/venue.jpeg" alt="UC San Diego" width="800" border="0"> <br> -->
 
 
 The International Conference on Scalable Scientific Data Management 2026 is aimed to bring together domain experts, data management researchers, practitioners, and developers for the presentation and exchange of the latest research results on concepts, tools, and techniques for scalable and scientific data management. The scope of the 38th edition of SSDBM encompasses all scalable and scientific data management fields. The conference is named **International Conference on Scalable Scientific Data Management**, while keeping the acronym SSDBM.
 
 The SSDBM conference provides a forum for original research contributions and practical system design, implementation and evaluation of latest advances in scalable and scientific data management. The conference program typically consists of a single track to facilitate discussion, and contains presentations of invited talks, panel sessions, and demonstrations of research prototypes and industrial systems.
 
-<!-- TODO: Update host university, city, and dates -->
-SSDBM 2026 will be held at TBD. The conference will continue the tradition of past SSDBM meetings in providing a stimulating environment to encourage discussion, fellowship and exchange of ideas in all aspects of research related to scientific and statistical data management, and high-performance data analysis tools and techniques for distributed datasets.
+SSDBM 2026 will be hosted by the University of California, San Diego (UCSD) in San Diego, California. The conference will be held on August 11-13, 2026. SSDBM 2026 will continue the tradition of past SSDBM meetings in providing a stimulating environment to encourage discussion, fellowship and exchange of ideas in all aspects of research related to scientific and statistical data management, and high-performance data analysis tools and techniques for distributed datasets.
 
 
 ## Announcements
@@ -68,4 +67,4 @@ Carl Kesselman, University of Southern California<br>
 Yongluan Zhou, University of Copenhagen<br>
 
 **Sponsors and Partners**<br>
-TBD<br>
+[University of California, San Diego](https://ucsd.edu/)<br>

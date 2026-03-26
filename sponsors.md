@@ -5,10 +5,9 @@ layout: default
 
 # Call for Sponsors
 
-<!-- TODO: Update conference edition number, host, and location -->
 We are seeking the sponsorship of companies for the
 [38th International Conference on Scalable Scientific Data Management (SSDBM 2026)](https://ssdbm.org/2026/)
-to be held at TBD.
+to be held at the University of California, San Diego (UCSD), San Diego, California, USA.
 
 We offer the following sponsorship packages:
 

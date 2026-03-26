@@ -1,20 +1,18 @@
 # SSDBM 2026 Website — Information Needed
 
-What we have so far and what we still need. Please fill in the blanks directly.
-
----
-
-## Confirmed
-
-- **Dates**: August 11–13, 2026
-- **Host**: University of California, San Diego (UCSD)
-- **Location**: San Diego, California, USA
-- **UCSD logo**: added to site
-- **Steering Committee** (carried over from 2025): Arie Shoshani (Chair Emeritus), John Wu (Chair), Suren Byna, Shadi Ibrahim, Carl Kesselman, Yongluan Zhou
+Please fill in the blanks directly. Items already answered are marked.
 
 ---
 
 ## Needed for Website Launch
+
+### Conference Basics
+
+- Dates: **August 11–13, 2026**
+- Host: **University of California, San Diego (UCSD)**
+- Location: **San Diego, California, USA**
+- Building / room name at UCSD:
+- Google Maps link:
 
 ### Organizing Committee
 
@@ -30,18 +28,23 @@ Fill in name + affiliation for each role:
 - Web Chair:
 - Publicity Chair:
 
-### Venue
-
-- Building / room name at UCSD:
-- Google Maps link:
-
 ### Steering Committee
 
-Any changes from the list above? (add/remove names):
+Current list (carried over from 2025 — please confirm or update):
+
+- Arie Shoshani, Lawrence Berkeley National Lab (Chair Emeritus)
+- John Wu, Lawrence Berkeley National Lab (Chair)
+- Suren Byna, The Ohio State University
+- Shadi Ibrahim, Inria, Rennes
+- Carl Kesselman, University of Southern California
+- Yongluan Zhou, University of Copenhagen
+
+Any changes? (add/remove names):
 
 ### Supporters
 
-- Any other institutional supporters besides UCSD? (names, logos, URLs):
+- Host institution logo: **UCSD logo added**
+- Any other institutional supporters? (names, logos, URLs):
 - Sponsorship contact person (for "Call for Sponsors" page):
 
 ---

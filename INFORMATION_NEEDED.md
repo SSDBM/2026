@@ -9,24 +9,21 @@ Please fill in the blanks directly. Items already answered are marked.
 ### Conference Basics
 
 - Dates: **August 11–13, 2026**
-- Host: **University of California, San Diego (UCSD)**
+- Host: **San Diego Supercomputer Center (SDSC), UC San Diego**
 - Location: **San Diego, California, USA**
-- Building / room name at UCSD:
-- Google Maps link:
+- Building / room: **SDSC Auditorium**
+- Address: **9836 Hopkins Dr, La Jolla, CA 92037**
+- Visitor info: **https://www.sdsc.edu/contact.html**
 
 ### Organizing Committee
 
-Fill in name + affiliation for each role:
-
-- General Chair:
-- General Vice Chair:
-- Program Co-chairs:
+- General Chairs: **Jay Lofstead, Christine Kirkpatrick**
+- Program Co-chairs: **Hari Devarajan, Diana Moise**
 - Short and Demo Paper Co-chairs:
 - Student Posters Competition Co-chairs:
 - Proceedings Chair:
-- Local Event Coordinators:
-- Web Chair:
-- Publicity Chair:
+- Web Chair: **Jaime Cernuda Garcia**
+- Publicity Chair: **Jaime Cernuda Garcia**
 
 ### Steering Committee
 
@@ -43,7 +40,7 @@ Any changes? (add/remove names):
 
 ### Supporters
 
-- Host institution logo: **UCSD logo added**
+- Host logos: **SDSC + UCSD logos added**
 - Any other institutional supporters? (names, logos, URLs):
 - Sponsorship contact person (for "Call for Sponsors" page):
 
@@ -90,8 +87,8 @@ For each speaker: name, affiliation, talk title, abstract, bio, photo.
 ### Venue & Travel
 
 - Venue photos (for homepage and venue page):
-- Recommended hotels (names, links, proximity):
-- Visa invitation letter contact (name + email):
+- Recommended hotels: **3 listed (from NSDF reference) — committee to confirm or expand**
+- Visa invitation letter contact: **Jay Lofstead (lofsteadjaywork@gmail.com)**
 
 ### Registration
 
@@ -115,3 +112,4 @@ For each speaker: name, affiliation, talk title, abstract, bio, photo.
 
 - Topics of interest were carried over from 2025 — worth reviewing whether to add anything (LLMs for science, quantum computing, etc.).
 - ACM ICPS publishing model and camera-ready instructions are standard and already on the site, but APC rates may change year to year.
+- Hotel list was sourced from the NSDF All-Hands Meeting 2025 (same SDSC venue) — committee should confirm which hotels to recommend.

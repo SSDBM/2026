@@ -7,8 +7,7 @@ layout: default
 
 ## Invitation Letter
 
-<!-- TODO: Update visa contact email -->
-If you need to apply for a visa, please contact [TBD](mailto:) and copy [TBD](mailto:) to request an invitation.
+If you need to apply for a visa, please contact [Jay Lofstead](mailto:lofsteadjaywork@gmail.com) to request an invitation letter.
 
 Please include the following details by email when requesting an invitation letter:
 - first and last name, as it appears on your passport

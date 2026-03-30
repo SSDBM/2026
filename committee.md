@@ -5,16 +5,13 @@ layout: default
 
 # Organisation Committee
 
-<!-- TODO: All committee roles need to be confirmed for 2026 -->
-
-**General Chair**<br>
-TBD<br>
-
-**General Vice Chair**<br>
-TBD<br>
+**General Chairs**<br>
+Jay Lofstead, Sandia National Laboratories<br>
+Christine Kirkpatrick, San Diego Supercomputer Center, UC San Diego<br>
 
 **Program Co-chairs**<br>
-TBD<br>
+Hari Devarajan, Lawrence Livermore National Laboratory<br>
+Diana Moise, Hewlett Packard Enterprise<br>
 
 **Short and Demo Paper Co-chairs**<br>
 TBD<br>
@@ -25,14 +22,8 @@ TBD<br>
 **Proceedings Chair**<br>
 TBD<br>
 
-**Local Event Coordinators**<br>
-TBD<br>
-
-**Web Chair**<br>
-TBD<br>
-
-**Publicity chair**<br>
-TBD<br>
+**Web and Publicity Chair**<br>
+Jaime Cernuda Garcia<br>
 
 **Steering Committee**<br>
 Arie Shoshani, Lawrence Berkeley National Lab (Chair Emeritus)<br>

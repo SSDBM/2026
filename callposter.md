@@ -24,9 +24,15 @@ The poster session provides a valuable opportunity for researchers to present on
 ## Submission Guidelines
 
 Authors are invited to submit original, unpublished work. Submissions should include:
+<!-- Hidden until ACM ICPS acceptance is confirmed
 - **Extended abstract**: A maximum of 2 pages, in ACM format (using the generic "sigconf" sample from [ACM template](https://www.acm.org/publications/proceedings-template)). LaTex users are recommended to use \documentclass[sigconf,review]{acmart} configuration.
+-->
+- **Extended abstract**: A maximum of 2 pages.
 - **Poster Draft**: One A0-size sheet, vertical layout (preferred) or horizontal layout.
+<!-- Hidden until ACM ICPS acceptance is confirmed
 - **Single-blind Review**: Include authors' names and affiliations on the first page. Please adhere to the ACM Policy on Authorship and generative AI tools: [ACM Policy on Authorship](https://www.acm.org/publications/policies/new-acm-policy-on-authorship).
+-->
+- **Single-blind Review**: Include authors' names and affiliations on the first page.
 - **Student Competition Indication**: If the first author is a student and wishes to participate in the student poster competition, please clearly indicate this during submission.
 
 The poster draft and the abstract should be combined into a single PDF file for submission.

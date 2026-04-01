@@ -11,10 +11,6 @@ The SSDBM conference serves as a forum for original research contributions, as w
 
 SSDBM 2026 will be hosted by the San Diego Supercomputer Center (SDSC) at the University of California, San Diego in San Diego, California, from August 11 to August 13, 2026. Continuing the tradition of past SSDBM meetings, SSDBM 2026 will offer a stimulating environment designed to foster discussion, collaboration, and the exchange of ideas on all aspects of scientific and statistical data management research, as well as high-performance data analysis tools and techniques for distributed datasets.
 
-<!-- Hidden until ACM ICPS acceptance is confirmed
-The Proceedings of SSDBM 2026 will be published by Association of Computing Machinery (ACM) <a href="https://www.acm.org/publications/icps">International Conference Proceeding Series (ICPS)</a> and will appear in <a href="https://www.acm.org/publications/digital-library">the ACM Digital Library</a> and many <a href="https://authors.acm.org/journals/journals-indexing-list">indexing providers</a>.
--->
-
 ## Topics of Interest
 
 Topics of particular interest include, but are not limited to, the following, as they relate to scientific data management:
@@ -75,10 +71,6 @@ Topics of particular interest include, but are not limited to, the following, as
 
 Authors are invited to submit original, unpublished manuscripts.
 - Regular Research Papers are up to 12 pages (including references and appendices). Papers should be descriptions of complete technical work.
-<!-- Hidden until ACM ICPS acceptance is confirmed
-- All submissions should be formatted using the ACM format available at [https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template) by selecting the generic "sigconf" sample. For submissions prepared in LaTex, authors are recommended to use \documentclass[sigconf,review]{acmart} configuration.
-- SSDBM 2026 is single-blind reviewed; authors must include their names and affiliations on the first page. All authors should respect ACM Policy on Authorship and use of generative AI tools and technologies (details on the policy are available at [ACM Policy on Authorship](https://www.acm.org/publications/policies/new-acm-policy-on-authorship).
--->
 
 <!-- TODO: Update submission site URL -->
 Submission site: TBD

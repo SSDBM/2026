@@ -9,20 +9,17 @@ layout: default
 <!-- <img src="assets/images/venue.jpeg" alt="UC San Diego" width="800" border="0"> <br> -->
 
 
-The **International Conference on Scalable Scientific Data Management 2026** aims to bring together domain experts, data management researchers, practitioners, and developers to present and exchange the latest research findings on concepts, tools, and techniques for scalable scientific data management. The 38th edition of SSDBM encompasses all areas of scalable and scientific data management. The conference is named the ***International Conference on Scalable Scientific Data Management***, while retaining the well-known acronym, SSDBM.
+The International Conference on Scalable Scientific Data Management (SSDBM 2026) brings together domain scientists, data management researchers, practitioners, and system developers to present and exchange the latest advances in scalable scientific data management. Building on the expanded vision introduced in 2025, the 38th edition continues to broaden its scope across all aspects of scalable and data-intensive scientific computing.
 
-The SSDBM conference serves as a forum for original research contributions, as well as practical system design, implementation, and evaluation of the latest advances in scalable and scientific data management. The program typically features a single-track format to foster active discussion and includes invited talks, panel sessions, and demonstrations of research prototypes and industrial systems.
+SSDBM has evolved from its origins as the International Conference on Scientific and Statistical Database Management into a premier venue for research at the intersection of data systems, scientific applications, and scalable computing, while retaining its well-recognized acronym.
 
-SSDBM 2026 will be hosted by the San Diego Supercomputer Center (SDSC) at the University of California, San Diego in San Diego, California, from August 11 to August 13, 2026. Continuing the tradition of past SSDBM meetings, SSDBM 2026 will offer a stimulating environment designed to foster discussion, collaboration, and the exchange of ideas on all aspects of scientific and statistical data management research, as well as high-performance data analysis tools and techniques for distributed datasets.
+SSDBM 2026 will serve as a forum for original research contributions, as well as practical system design, implementation, and evaluation of emerging techniques in scientific data management. The conference will maintain its single-track format to encourage active engagement and will feature invited talks, panel sessions, and demonstrations from both academia and industry.
+
+SSDBM 2026 will be hosted by the San Diego Supercomputer Center (SDSC) at the University of California, San Diego in San Diego, California, from August 11 to August 13, 2026. Continuing the tradition of past SSDBM meetings, the conference provides a stimulating environment for fostering discussion, collaboration, and the exchange of ideas on all aspects of scientific and statistical data management, as well as high-performance data analysis tools and techniques for large-scale and distributed datasets.
 
 
 ## Announcements
-- Call for Papers will be announced soon. Please check back for updates.
-<!-- - [Registration](register.html) site is Open. -->
-<!-- - <a href="https://ssdbm.org/2026/program">Advance Program</a> has been announced. -->
-<!-- - [Accepted papers](accepted-papers.html) have been announced. -->
-<!-- - Keynote speakers: TBD -->
-<!-- - Submission site is now open: [https://easychair.org/conferences/?conf=ssdbm2026](https://easychair.org/conferences/?conf=ssdbm2026) -->
+- [Call for Papers](callpaper.html) is now available! Abstract deadline: April 24, 2026. Paper submission deadline: May 1, 2026.
 
 
 <!--  ## Conference Officers -->

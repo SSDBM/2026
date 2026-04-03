@@ -5,84 +5,104 @@ layout: default
 
 # Call for Papers
 
-The **International Conference on Scalable Scientific Data Management 2026** aims to bring together domain experts, data management researchers, practitioners, and developers to present and exchange the latest research findings on concepts, tools, and techniques for scalable scientific data management. The 38th edition of SSDBM encompasses all areas of scalable and scientific data management. The conference is named the ***International Conference on Scalable Scientific Data Management***, while retaining the well-known acronym, SSDBM.
+## The 38th International Conference on Scalable Scientific Data Management (SSDBM 2026)
 
-The SSDBM conference serves as a forum for original research contributions, as well as practical system design, implementation, and evaluation of the latest advances in scalable and scientific data management. The program typically features a single-track format to foster active discussion and includes invited talks, panel sessions, and demonstrations of research prototypes and industrial systems.
+The International Conference on Scalable Scientific Data Management (SSDBM 2026) brings together domain scientists, data management researchers, practitioners, and system developers to present and exchange the latest advances in scalable scientific data management. Building on the expanded vision introduced in 2025, the 38th edition continues to broaden its scope across all aspects of scalable and data-intensive scientific computing.
 
-SSDBM 2026 will be hosted by the San Diego Supercomputer Center (SDSC) at the University of California, San Diego in San Diego, California, from August 11 to August 13, 2026. Continuing the tradition of past SSDBM meetings, SSDBM 2026 will offer a stimulating environment designed to foster discussion, collaboration, and the exchange of ideas on all aspects of scientific and statistical data management research, as well as high-performance data analysis tools and techniques for distributed datasets.
+SSDBM has evolved from its origins as the International Conference on Scientific and Statistical Database Management into a premier venue for research at the intersection of data systems, scientific applications, and scalable computing, while retaining its well-recognized acronym.
+
+SSDBM 2026 will serve as a forum for original research contributions, as well as practical system design, implementation, and evaluation of emerging techniques in scientific data management. The conference will maintain its single-track format to encourage active engagement and will feature invited talks, panel sessions, and demonstrations from both academia and industry.
+
+SSDBM 2026 will be hosted by the San Diego Supercomputer Center (SDSC) at the University of California, San Diego in San Diego, California, from August 11 to August 13, 2026. Continuing the tradition of past SSDBM meetings, the conference provides a stimulating environment for fostering discussion, collaboration, and the exchange of ideas on all aspects of scientific and statistical data management, as well as high-performance data analysis tools and techniques for large-scale and distributed datasets.
 
 ## Topics of Interest
 
-Topics of particular interest include, but are not limited to, the following, as they relate to scientific data management:
+Topics of interest include, but are not limited to, the following areas in scientific data management:
 
-### Scientific Applications, Workflows and Reproducibility
+### Scientific Applications, Workflows, and Reproducibility
 
 - Design, implementation, optimization, and reproducibility of scientific workflows
 - Platforms and tools for reproducible data science and scientific collaboration
 - Application case studies (e.g., astrophysics, climate, energy, sustainability, biomedicine)
 - Open data standards and cross-platform compatibility for scientific data
-- Cloud computing issues in large-scale data management
+- Cloud and hybrid computing issues in large-scale data management
 - System architectures for scientific data
 - HPC applications and scalability challenges in data-intensive scientific fields
-- Data ethics, bias in scientific data handling, and privacy in large-scale studies
-- Handling data errors, inconsistencies, and outliers in scientific datasets
+- Data ethics, bias, privacy, and responsible data use
+- Handling data errors, inconsistencies, and uncertainty in scientific datasets
 
 ### Data Modeling, Management, and Integration
 
 - FAIR data principles (Findable, Accessible, Interoperable, Reusable)
-- Data lifecycle and retention management, provenance data management
-- Data integration
-- Data storage and management architectures (e.g., distributed file systems, data lakes, high-performance storage)
+- Data lifecycle and retention management, provenance tracking
+- Data integration across heterogeneous sources
+- Data storage and management architectures (distributed file systems, object stores, data lakes, high-performance storage)
 - Protocols and frameworks for cross-domain data sharing and exchange
-- Modeling of scientific data
-- Schema evolution
+- Modeling of scientific data and schema evolution
 - Information retrieval and text mining
 - Indexing and querying scientific data, including spatial, temporal, and streaming data
 
 ### Big Data Processing and Performance Aspects
 
-- Big data processing frameworks for scientific data
-- Scalable architectures and distributed systems for managing large-scale datasets
-- Optimization techniques for high-efficiency data storage and retrieval
-- Innovations in data compression and encoding for enhanced performance
-- Efficient computational techniques for statistical data analysis and modeling
-- Methods for ensuring data quality, integrity, and consistency in big data environments
-- Smart city applications and services leveraging high-performance data solutions
+- Big data processing frameworks for scientific workloads
+- Scalable architectures and distributed systems for large-scale datasets
+- Optimization techniques for efficient data storage and retrieval
+- Innovations in data compression and encoding
+- Efficient computational techniques for statistical analysis and modeling
+- Methods for ensuring data quality, integrity, and consistency at scale
 
 ### Machine Learning, Artificial Intelligence, and Visualization
 
-- Database support of machine learning and AI
+- Database and system support for machine learning and AI
 - Data management for AI applications
 - Machine learning and AI for scientific data management
-- Visualization and exploration of large datasets
-- Security and privacy in scientific data management
-- Data storage and compression techniques for machine learning
+- Data pipelines for deep learning and large-scale training workloads
+- Visualization and interactive exploration of large datasets
+- Security, privacy, and trust in scientific data systems
 
 ### Streaming and Real-Time Data Processing
 
 - Stream data representation and management
-- Stream data analysis (e.g., summarization, statistical analysis, pattern matching, pattern discovery, learning, and prediction)
-- Dataflow and parallel processing for complex data workflows
-- Distributed systems and devices
+- Stream data analysis (summarization, pattern discovery, prediction)
+- Dataflow systems for complex and parallel workflows
+- Distributed systems and edge devices
 - Internet of Things (IoT) data analytics
-- Location-aware recommender systems
+- Location-aware and real-time recommendation systems
+
+### Emerging Directions in Scientific Data Systems
+
+- Cross-layer performance analysis and observability
+- Data-centric system co-design across compute, memory, storage, and network
+- Autonomous and self-optimizing data systems
+- Multi-modal data management and analytics
+- Digital twins and simulation-driven data pipelines
 
 ## Submission Guidelines
 
 Authors are invited to submit original, unpublished manuscripts.
-- Regular Research Papers are up to 12 pages (including references and appendices). Papers should be descriptions of complete technical work.
+- **Regular Research Papers**: up to 12 pages (including references and appendices)
+- **Short Papers**: up to 6 pages (including references)
 
-<!-- TODO: Update submission site URL -->
-Submission site: TBD
-<!-- Submission site: [EasyChair](https://easychair.org/conferences/?conf=ssdbm2026) -->
+All submissions must follow the ACM format using the sigconf template:
+[https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template)
 
-The program committee may decide to accept some papers as short papers or posters. Regular papers will be given a presentation slot in the conference, while short papers will be given a short presentation slot in the conference. Regular papers (up to 12 pages including references) and Short papers (up to 6 pages including references) will be included as part of the conference proceedings. Posters with a single page abstract and electronic poster presentation will be published on the conference website, without proceedings.
+For LaTeX users: `\documentclass[sigconf,review]{acmart}`
 
-If your paper is selected, at least one author must register for the Technical Program in order to attend the conference and present the paper. Each author registration can be applied to only one accepted submission. For an accepted paper to be included in the proceedings, the author has to present the paper at the conference in person. Otherwise, the paper will be removed from the proceedings.
+Submissions are single-blind reviewed; authors must include names and affiliations on the first page. Authors must comply with [ACM policies on authorship](https://www.acm.org/publications/policies/new-acm-policy-on-authorship) and the use of generative AI tools and technologies.
 
-## Important Dates
+Submission site: HotCRP (submission link will be available soon)
 
-<!-- TODO: Update all dates -->
-- Abstract submission: TBD, 2026 at 23:59 AoE (Anywhere on Earth)
-- Submission deadline: TBD, 2026 at 23:59 AoE (Anywhere on Earth)
-- Notification: TBD, 2026
+The program committee may recommend submissions as regular papers, short papers, or posters.
+- **Regular papers**: full presentation at the conference
+- **Short papers**: short presentation at the conference
+- **Posters**: 1-page abstract and electronic poster presentation; published on the conference website (not in proceedings)
+
+Regular and short papers will be included in the conference proceedings.
+
+If a paper is accepted, at least one author must register for the technical program and present the paper in person. Each registration may cover only one accepted paper. Papers not presented at the conference will be removed from the proceedings.
+
+## Important Dates (AoE)
+
+- **Abstract Submission**: April 24, 2026
+- **Paper Submission Deadline**: May 1, 2026
+- **Notification**: June 14, 2026

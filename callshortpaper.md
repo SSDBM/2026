@@ -5,88 +5,30 @@ layout: default
 
 # Call for Short and Demo Papers
 
-The **International Conference on Scalable Scientific Data Management 2026** aims to bring together domain experts, data management researchers, practitioners, and developers to present and exchange the latest research findings on concepts, tools, and techniques for scalable scientific data management. The 38th edition of SSDBM encompasses all areas of scalable and scientific data management. The conference is named the ***International Conference on Scalable Scientific Data Management***, while retaining the well-known acronym, SSDBM.
-
-The SSDBM conference serves as a forum for original research contributions, as well as practical system design, implementation, and evaluation of the latest advances in scalable and scientific data management. The program typically features a single-track format to foster active discussion and includes invited talks, panel sessions, and demonstrations of research prototypes and industrial systems.
-
-SSDBM 2026 will be hosted by the San Diego Supercomputer Center (SDSC) at the University of California, San Diego in San Diego, California, from August 11 to August 13, 2026. Continuing the tradition of past SSDBM meetings, SSDBM 2026 will offer a stimulating environment designed to foster discussion, collaboration, and the exchange of ideas on all aspects of scientific and statistical data management research, as well as high-performance data analysis tools and techniques for distributed datasets.
-
-## Topics of Interest
-
-Topics of particular interest include, but are not limited to, the following, as they relate to scientific data management:
-
-### Scientific Applications, Workflows and Reproducibility
-
-- Design, implementation, optimization, and reproducibility of scientific workflows
-- Platforms and tools for reproducible data science and scientific collaboration
-- Application case studies (e.g., astrophysics, climate, energy, sustainability, biomedicine)
-- Open data standards and cross-platform compatibility for scientific data
-- Cloud computing issues in large-scale data management
-- System architectures for scientific data
-- HPC applications and scalability challenges in data-intensive scientific fields
-- Data ethics, bias in scientific data handling, and privacy in large-scale studies
-- Handling data errors, inconsistencies, and outliers in scientific datasets
-
-### Data Modeling, Management, and Integration
-
-- FAIR data principles (Findable, Accessible, Interoperable, Reusable)
-- Data lifecycle and retention management, provenance data management
-- Data integration
-- Data storage and management architectures (e.g., distributed file systems, data lakes, high-performance storage)
-- Protocols and frameworks for cross-domain data sharing and exchange
-- Modeling of scientific data
-- Schema evolution
-- Information retrieval and text mining
-- Indexing and querying scientific data, including spatial, temporal, and streaming data
-
-### Big Data Processing and Performance Aspects
-
-- Big data processing frameworks for scientific data
-- Scalable architectures and distributed systems for managing large-scale datasets
-- Optimization techniques for high-efficiency data storage and retrieval
-- Innovations in data compression and encoding for enhanced performance
-- Efficient computational techniques for statistical data analysis and modeling
-- Methods for ensuring data quality, integrity, and consistency in big data environments
-- Smart city applications and services leveraging high-performance data solutions
-
-### Machine Learning, Artificial Intelligence, and Visualization
-
-- Database support of machine learning and AI
-- Data management for AI applications
-- Machine learning and AI for scientific data management
-- Visualization and exploration of large datasets
-- Security and privacy in scientific data management
-- Data storage and compression techniques for machine learning
-
-### Streaming and Real-Time Data Processing
-
-- Stream data representation and management
-- Stream data analysis (e.g., summarization, statistical analysis, pattern matching, pattern discovery, learning, and prediction)
-- Dataflow and parallel processing for complex data workflows
-- Distributed systems and devices
-- Internet of Things (IoT) data analytics
-- Location-aware recommender systems
+Short and demo papers are submitted through the same process as regular papers. Please see the [Call for Papers](callpaper.html) for the full list of topics, submission guidelines, and important dates.
 
 ## Short papers
 
-Short papers are up to 6 pages (including references and appendices). Short papers should describe interesting, innovative ideas, which nevertheless require more work to mature, or are vision papers. Short papers will be given a short presentation slot in the conference and presented in the form of posters.
+Short papers are up to 6 pages (including references and appendices). Short papers should describe interesting, innovative ideas, which nevertheless require more work to mature, or are vision papers. Short papers will be given a short presentation slot in the conference.
+
 ## Demo papers
 
-Demo papers are up to 6 pages (including references and appendices). Demo paper proposals should provide the motivation for the demonstrated concepts, the information about the technology and the system to be demonstrated (including a system description, functionality and figures when applicable), and should state the significance of the contribution. Selection criteria for the demonstration proposals evaluation include: the novelty, the technical advances and challenges, and the overall practical attractiveness of the demonstrated system. Demo papers will be given a short presentation slot in the conference and presented in the form of posters.
+Demo papers are up to 6 pages (including references and appendices). Demo paper proposals should provide the motivation for the demonstrated concepts, the information about the technology and the system to be demonstrated (including a system description, functionality and figures when applicable), and should state the significance of the contribution. Selection criteria for the demonstration proposals evaluation include: the novelty, the technical advances and challenges, and the overall practical attractiveness of the demonstrated system. Demo papers will be given a short presentation slot in the conference.
 
 ## Submission Guidelines
 
-Authors are invited to submit original, unpublished manuscripts.
-- Short and Demo Papers are up to 6 pages (including references and appendices). Papers should be descriptions of complete technical work.
+All submissions must follow the ACM format using the sigconf template:
+[https://www.acm.org/publications/proceedings-template](https://www.acm.org/publications/proceedings-template)
 
-<!-- TODO: Update submission site URL -->
-Submission site: TBD
-<!-- Submission site: [EasyChair](https://easychair.org/conferences/?conf=ssdbm2026) -->
+For LaTeX users: `\documentclass[sigconf,review]{acmart}`
 
-## Important Dates
-<!-- TODO: Update all dates -->
-- Submission deadline: TBD, 2026 at 23:59 AoE (Anywhere on Earth)
-- Notification: TBD, 2026
+Submission site: HotCRP (submission link will be available soon)
 
-Short & Demo papers will be given a presentation slot in the conference. Short & Demo papers (up to 6 pages including references) will be given an entry in the conference proceedings.
-If your paper is selected, at least one author must register for the Technical Program in order to attend the conference and present the paper. Each author registration can be applied to only one accepted submission. For an accepted paper to be included in the proceedings, the author has to present the paper at the conference in person. Otherwise, the paper will be removed from the proceedings.
+Short & Demo papers (up to 6 pages including references) will be included in the conference proceedings.
+If your paper is selected, at least one author must register for the technical program and present the paper in person. Each registration may cover only one accepted paper. Papers not presented at the conference will be removed from the proceedings.
+
+## Important Dates (AoE)
+
+- **Abstract Submission**: April 24, 2026
+- **Paper Submission Deadline**: May 1, 2026
+- **Notification**: June 14, 2026

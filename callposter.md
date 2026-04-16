@@ -30,7 +30,7 @@ The poster draft and the abstract should be combined into a single PDF file for 
 Submission site: HotCRP (submission link will be available soon)
 
 ## Important Dates
-- Submission Deadline: TBD, 2026 (23:59 AoE)
+- Submission Deadline: July 1, 2026 (23:59 AoE)
 - Notification: TBD, 2026
 
 **Other Important Notes**

@@ -20,7 +20,7 @@ Please fill in the blanks directly. Items already answered are marked.
 - General Chairs: **Jay Lofstead, Christine Kirkpatrick**
 - Program Co-chairs: **Hari Devarajan, Diana Moise**
 - Short and Demo Paper Co-chairs:
-- Student Posters Competition Co-chairs:
+- Student Posters Competition Chair: **Yicheng Tu, University of South Florida**
 - Proceedings Chair:
 - Web and Publicity Chair: **Jaime Cernuda Garcia**
 

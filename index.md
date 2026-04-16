@@ -37,8 +37,8 @@ Diana Moise, Hewlett Packard Enterprise<br>
 **Short and Demo Paper Co-chairs**<br>
 TBD<br>
 
-**Student Posters Competition co-chairs**<br>
-TBD<br>
+**Student Posters Competition Chair**<br>
+Yicheng Tu, University of South Florida<br>
 
 **Proceedings Chair**<br>
 TBD<br>

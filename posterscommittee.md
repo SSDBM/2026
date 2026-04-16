@@ -5,8 +5,8 @@ layout: default
 
 # Posters Committee
 
-**Chairs**<br>
-TBD<br>
+**Chair**<br>
+**Yicheng Tu**, University of South Florida<br>
 
 **Program Committee** *(tentative)*<br>
 

@@ -30,4 +30,14 @@ More details: [UC San Diego visitor parking](http://transportation.ucsd.edu/park
 
 **Public transit**: [UC San Diego transit options](https://transportation.ucsd.edu/alternatives/transit/)
 
+## Accommodation
+
+A non-exhaustive list of hotels near SDSC and the UC San Diego campus (source: [NSDF All-Hands Meeting 2025](https://nationalsciencedatafabric.org/nsdf-ahm-2025-01), same venue):
+
+- [La Jolla Shores Hotel](https://www.ljshoreshotel.com/) — 8110 Camino Del Oro, La Jolla, CA 92037
+- [Residence Inn San Diego La Jolla](https://www.marriott.com/en-us/hotels/lajca-residence-inn-san-diego-la-jolla) — 8901 Gilman Drive, La Jolla, CA 92037 (adjacent to campus)
+- [Sheraton La Jolla Hotel, Torrey Pines](https://www.marriott.com/en-us/hotels/sanjs-sheraton-la-jolla-hotel) — 3299 Holiday Ct., La Jolla, CA 92037
+
+See the [Accommodation page](accommodation.html) for the full list.
+
 <!-- <img src="assets/images/venue.jpeg" alt="SDSC" width="800" border="0"> <br> -->

@@ -49,19 +49,19 @@ Any changes? (add/remove names):
 
 ### Submission Dates
 
-- Abstract submission deadline (main track):
-- Paper submission deadline (main track):
-- Short & Demo paper submission deadline:
+- Abstract submission deadline (main track): May 3, 2026
+- Paper submission deadline (main track): May 3, 2026
+- Short & Demo paper submission deadline: May 3, 2026
 - Poster submission deadline: July 1, 2026
-- Notification of acceptance (papers):
-- Notification of acceptance (short/demo):
+- Notification of acceptance (papers): June 14, 2026
+- Notification of acceptance (short/demo): June 14, 2026
 - Notification of acceptance (posters):
 - Camera-ready deadline:
 - Author registration deadline:
 
 ### Submission System
 
-- EasyChair URL (or alternative):
+- HotCRP URL: https://ssdbm26.hotcrp.com/
 - Conference contact email:
 
 ### Topics & Review

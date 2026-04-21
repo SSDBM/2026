@@ -19,7 +19,8 @@ SSDBM 2026 will be hosted by the San Diego Supercomputer Center (SDSC) at the Un
 
 
 ## Announcements
-- [Call for Papers](callpaper.html) is now available! Abstract deadline: April 24, 2026. Paper submission deadline: May 1, 2026.
+- **Submissions are now open!** Submit via [HotCRP](https://ssdbm26.hotcrp.com/). See the [Call for Papers](callpaper.html) for details.
+- Abstract and paper submission deadline: May 3, 2026. Notification: June 14, 2026.
 
 
 <!--  ## Conference Officers -->

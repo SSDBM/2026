@@ -90,7 +90,7 @@ For LaTeX users: `\documentclass[sigconf,review]{acmart}`
 
 Submissions are single-blind reviewed; authors must include names and affiliations on the first page. Authors must comply with [ACM policies on authorship](https://www.acm.org/publications/policies/new-acm-policy-on-authorship) and the use of generative AI tools and technologies.
 
-Submission site: HotCRP (submission link will be available soon)
+Submission site: [https://ssdbm26.hotcrp.com/](https://ssdbm26.hotcrp.com/)
 
 The program committee may recommend submissions as regular papers, short papers, or posters.
 - **Regular papers**: full presentation at the conference
@@ -103,6 +103,6 @@ If a paper is accepted, at least one author must register for the technical prog
 
 ## Important Dates (AoE)
 
-- **Abstract Submission**: April 24, 2026
-- **Paper Submission Deadline**: May 1, 2026
+- **Abstract Submission**: May 3, 2026
+- **Paper Submission Deadline**: May 3, 2026
 - **Notification**: June 14, 2026

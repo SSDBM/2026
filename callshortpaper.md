@@ -22,13 +22,13 @@ All submissions must follow the ACM format using the sigconf template:
 
 For LaTeX users: `\documentclass[sigconf,review]{acmart}`
 
-Submission site: HotCRP (submission link will be available soon)
+Submission site: [https://ssdbm26.hotcrp.com/](https://ssdbm26.hotcrp.com/)
 
 Short & Demo papers (up to 6 pages including references) will be included in the conference proceedings.
 If your paper is selected, at least one author must register for the technical program and present the paper in person. Each registration may cover only one accepted paper. Papers not presented at the conference will be removed from the proceedings.
 
 ## Important Dates (AoE)
 
-- **Abstract Submission**: April 24, 2026
-- **Paper Submission Deadline**: May 1, 2026
+- **Abstract Submission**: May 3, 2026
+- **Paper Submission Deadline**: May 3, 2026
 - **Notification**: June 14, 2026

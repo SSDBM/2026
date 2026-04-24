@@ -23,6 +23,7 @@ layout: default
 * **Dingwen Tao**, Institute of Computing Technology, Chinese Academy of Sciences<br>
 * **Dong Lipeng Wang**, UC Merced<br>
 * **Douglas Thain**, University of Notre Dame<br>
+* **Elsa Gonsiorowski**, Lawrence Livermore National Laboratory<br>
 * **Frank Mueller**, North Carolina State University<br>
 * **Guanpeng Li**, University of Iowa<br>
 * **Houjun Tang**, Lawrence Berkeley National Laboratory<br>

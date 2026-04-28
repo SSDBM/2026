@@ -104,5 +104,5 @@ If a paper is accepted, at least one author must register for the technical prog
 ## Important Dates (AoE)
 
 - **Abstract Submission**: May 3, 2026
-- **Paper Submission Deadline**: May 3, 2026
+- **Paper Submission Deadline**: ~~May 3, 2026~~ **May 10, 2026 (Firm deadline)**
 - **Notification**: June 14, 2026

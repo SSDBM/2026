@@ -13,7 +13,7 @@ The poster session provides a valuable opportunity for researchers to present on
 - **Showcase Your Research**: Present your work and receive valuable feedback.
 - **Networking**: Connect with prominent researchers and potential mentors.
 - **Shape the Future**: Contribute to the development of next-generation research infrastructure for scalable data management.
-- **Student Opportunities**: Compete for travel awards and prizes.
+- **Student Opportunities**: Apply for the SSDBM Student Travel Award and compete for prizes.
 - **Best Poster Competition**: All student posters are automatically entered into the Best Poster Competition. The winner will receive recognition at the conference.
 
 
@@ -32,6 +32,26 @@ Submission site: [https://ssdbm26.hotcrp.com/](https://ssdbm26.hotcrp.com/)
 ## Important Dates
 - Submission Deadline: July 1, 2026 (23:59 AoE)
 - Notification: TBD, 2026
+
+## SSDBM Student Travel Award
+
+The SSDBM Student Travel Award is sponsored by the National Science Foundation (NSF). Awards provide up to **$1200** for eligible travel, accommodation, and meal expenses. Receipts are required for all expenses.
+
+The award is open to graduate students who are studying at a university in the USA. SSDBM expects to make 8 to 10 awards.
+
+To apply, submit a 1-page PDF document with the following information:
+
+- First name and last name
+- Graduate program and university details
+- Whether the applicant has a paper or poster accepted at SSDBM
+- One paragraph describing the applicant's research
+- One paragraph describing how attending SSDBM will benefit the applicant's research progress
+
+Email applications to [byna.1@osu.edu](mailto:byna.1@osu.edu) and [guo.2154@osu.edu](mailto:guo.2154@osu.edu) by **June 20, 2026**.
+
+Use the subject line: `SSDBM 2026 Student Travel Award Application - <Applicant's Name>`
+
+Award notifications will be sent by **June 27, 2026**. Selected students should work with the OSU budget office to set up their travel plans.
 
 **Other Important Notes**
 

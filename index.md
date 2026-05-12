@@ -21,6 +21,7 @@ SSDBM 2026 will be hosted by the San Diego Supercomputer Center (SDSC) at the Un
 ## Announcements
 - **Paper submissions are now closed.** Notification: June 14, 2026.
 - **Poster submissions are open.** See the [Call for Posters](callposter.html). Deadline: July 1, 2026 (23:59 AoE).
+- **Student travel awards are available.** Eligible graduate students may apply for the NSF-sponsored SSDBM Student Travel Award by June 20, 2026.
 
 ## Poster Session
 

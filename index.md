@@ -21,7 +21,15 @@ SSDBM 2026 will be hosted by the San Diego Supercomputer Center (SDSC) at the Un
 ## Announcements
 - **Submissions are now open!** Submit via [HotCRP](https://ssdbm26.hotcrp.com/). See the [Call for Papers](callpaper.html) for details.
 - **Abstract and paper submission deadline: May 10, 2026 (Firm deadline).** Notification: June 14, 2026.
+- **Poster submissions are open.** See the [Call for Posters](callposter.html). Deadline: July 1, 2026 (23:59 AoE).
 
+## Poster Session
+
+SSDBM 2026 will include a poster session for ongoing research, emerging ideas, and early-stage results in scalable scientific data management. Accepted posters will be presented in person during the conference and featured in a short presentation slot.
+
+Poster submissions should include a two-page extended abstract and an A0-size poster draft combined into a single PDF. Student first authors may opt in to the student poster competition during submission.
+
+Submit posters through [HotCRP](https://ssdbm26.hotcrp.com/) by **July 1, 2026 (23:59 AoE)**. Full requirements are available in the [Call for Posters](callposter.html).
 
 <!--  ## Conference Officers -->
 

@@ -28,6 +28,8 @@ SSDBM 2026 will include a poster session for ongoing research, emerging ideas, a
 
 Poster submissions should include a two-page extended abstract and an A0-size poster draft combined into a single PDF. Student first authors may opt in to the student poster competition during submission.
 
+Graduate students studying at universities in the USA may also apply for the NSF-sponsored SSDBM Student Travel Award, which provides up to **$1200** for eligible travel, accommodation, and meal expenses.
+
 Submit posters through [HotCRP](https://ssdbm26.hotcrp.com/) by **July 1, 2026 (23:59 AoE)**. Full requirements are available in the [Call for Posters](callposter.html).
 
 <!--  ## Conference Officers -->

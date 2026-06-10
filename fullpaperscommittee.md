@@ -31,19 +31,15 @@ layout: default
 * **Jacopo Massa**, University of Pisa<br>
 * **Jae-Seung Yeom**, Lawrence Livermore National Laboratory<br>
 * **Jaime Cernuda**, Illinois Institute of Technology<br>
-* **Jarek Nabrzyski**, University of Notre Dame<br>
 * **Jean Luca Bez**, Lawrence Berkeley National Laboratory<br>
 * **Joao Paulo**, INESC TEC<br>
-* **Johann Lombardi**, Hewlett Packard Enterprise<br>
 * **Karim Youssef**, Lawrence Livermore National Laboratory<br>
 * **Keichi Takahashi**, Tohoku University<br>
 * **Laurent d'Orazio**, University of Rennes (Univ Rennes), CNRS, IRISA<br>
 * **Lipeng Wan**, Georgia State University<br>
 * **Luke Logan**, Illinois Institute of Technology<br>
 * **M. Mustafa Rafique**, Rochester Institute of Technology<br>
-* **Mai Zheng**, Iowa State University<br>
 * **Maximilian Schüle**, University of Bamberg<br>
-* **Meifeng Lin**, Brookhaven National Laboratory<br>
 * **Mike Brim**, Oak Ridge National Laboratory<br>
 * **Nathan Tallent**, Pacific Northwest National Laboratory<br>
 * **Osamu Tatebe**, University of Tsukuba<br>

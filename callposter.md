@@ -47,7 +47,7 @@ To apply, submit a 1-page PDF document with the following information:
 - One paragraph describing the applicant's research
 - One paragraph describing how attending SSDBM will benefit the applicant's research progress
 
-Email applications to [byna.1@osu.edu](mailto:byna.1@osu.edu) and [guo.2154@osu.edu](mailto:guo.2154@osu.edu) by **June 20, 2026**.
+Email applications to [byna.1@osu.edu](mailto:byna.1@osu.edu) and [guo.2154@osu.edu](mailto:guo.2154@osu.edu) by **July 5, 2026**.
 
 Use the subject line: `SSDBM 2026 Student Travel Award Application - <Applicant's Name>`
 

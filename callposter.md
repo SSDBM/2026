@@ -27,7 +27,7 @@ Authors are invited to submit original, unpublished work. Submissions should inc
 
 The poster draft and the abstract should be combined into a single PDF file for submission.
 
-Submission site: [https://ssdbm26.hotcrp.com/](https://ssdbm26.hotcrp.com/)
+Submission site: [https://ssdbm26-posters.hotcrp.com/](https://ssdbm26-posters.hotcrp.com/)
 
 ## Important Dates
 - Submission Deadline: July 1, 2026 (23:59 AoE)

@@ -31,7 +31,7 @@ layout: default
 | 10:30 – 11:00   | Coffee Break                                                            |
 | 11:00 – 12:30   | Poster lightning talks and announcement of the poster competition       |
 | 12:30 – 2:00    | Lunch                                                                    |
-| 2:00 – 6:00     | HDF Group meeting (with a break in the middle)                           |
+| 2:00 – 6:00     | [Safe-OSE Workshop](workshop-safe-ose.html) (with a break in the middle)  |
 | 6:00 – 8:00     | Dinner and poster reception                                              |
 
 ### Day 2 — Thursday, August 13, 2026
@@ -56,6 +56,6 @@ The schedule may be subject to last-minute changes; please check back for update
 
 ### Safe-OSE Workshop
 
-A half-day workshop organized by the NSF Safe-OSE (Safety, Security, and Privacy of Open-Source Ecosystems) team will be held on **Wednesday, August 12, 2026 (afternoon)**.
+A half-day workshop organized by the NSF Safe-OSE (Safety, Security, and Privacy of Open-Source Ecosystems) team will be held on **Wednesday, August 12, 2026 (2:00 – 6:00 PM)**.
 
 See the [Safe-OSE Workshop page](workshop-safe-ose.html) for details.

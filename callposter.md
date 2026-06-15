@@ -14,24 +14,18 @@ The poster session provides a valuable opportunity for researchers to present on
 - **Networking**: Connect with prominent researchers and potential mentors.
 - **Shape the Future**: Contribute to the development of next-generation research infrastructure for scalable data management.
 - **Student Opportunities**: Apply for the SSDBM Student Travel Award and compete for prizes.
-- **Best Poster Competition**: All student posters are automatically entered into the Best Poster Competition. The winner will receive recognition at the conference.
 
 
 ## Submission Guidelines
 
-Authors are invited to submit original, unpublished work. Submissions should include:
-- **Extended abstract**: A maximum of 2 pages, in ACM format (using the generic "sigconf" sample from [ACM template](https://www.acm.org/publications/proceedings-template)). LaTeX users are recommended to use `\documentclass[sigconf,review]{acmart}`.
+Authors are encouraged to submit original, unpublished work. Submissions should include:
+- **Extended abstract**: A maximum of 2 pages (including references), in ACM format (using the generic "sigconf" sample from [ACM template](https://www.acm.org/publications/proceedings-template)). LaTeX users are recommended to use `\documentclass[sigconf,review]{acmart}`.
 - **Poster Draft**: One A0-size sheet, vertical layout (preferred) or horizontal layout.
 - **Single-blind Review**: Include authors' names and affiliations on the first page. Please adhere to the [ACM Policy on Authorship](https://www.acm.org/publications/policies/new-acm-policy-on-authorship) and generative AI tools.
-- **Student Competition Indication**: If the first author is a student and wishes to participate in the student poster competition, please clearly indicate this during submission.
 
 The poster draft and the abstract should be combined into a single PDF file for submission.
 
 Submission site: [https://ssdbm26-posters.hotcrp.com/](https://ssdbm26-posters.hotcrp.com/)
-
-## Important Dates
-- Submission Deadline: July 1, 2026 (23:59 AoE)
-- Notification: TBD, 2026
 
 ## SSDBM Student Travel Award
 
@@ -60,6 +54,13 @@ Award notifications will be sent by **July 12, 2026**. Selected students should 
 - For full conference details, including the detailed scope and other submission types, please see the [Call for Papers](callpaper.html).
 
 **Topics of Interest**: See the [Call for Papers](callpaper.html) for the full list of topics.
+
+## Important Dates
+- Submission Deadline: July 1, 2026 (23:59 AoE)
+- Notification: July 10, 2026
+- Poster Session: evening of August 12, 2026 (Wednesday)
+- Student Travel Award Application Submission Deadline: July 5, 2026
+- Student Travel Award Notification: July 12, 2026
 
 We look forward to your submissions!
 

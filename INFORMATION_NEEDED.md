@@ -8,7 +8,7 @@ Please fill in the blanks directly. Items already answered are marked.
 
 ### Conference Basics
 
-- Dates: **August 11–13, 2026**
+- Dates: **August 12–13, 2026**
 - Host: **San Diego Supercomputer Center (SDSC), UC San Diego**
 - Location: **San Diego, California, USA**
 - Building / room: **SDSC Auditorium**

@@ -51,7 +51,7 @@ Email applications to [byna.1@osu.edu](mailto:byna.1@osu.edu) and [guo.2154@osu.
 
 Use the subject line: `SSDBM 2026 Student Travel Award Application - <Applicant's Name>`
 
-Award notifications will be sent by **June 27, 2026**. Selected students should work with the OSU budget office to set up their travel plans.
+Award notifications will be sent by **July 12, 2026**. Selected students should work with the OSU budget office to set up their travel plans.
 
 **Other Important Notes**
 

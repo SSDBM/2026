@@ -68,7 +68,7 @@ The workshop will bring together HDF5 developers, users, integrators, security p
 | 2:10 PM - 2:35 PM | HDF5 Safety | Gerd Heber (HDFG) |
 | 2:35 PM - 2:45 PM | Coffee Break |
 | 2:45 PM - 3:10 PM | HDF5 Privacy | Elena Pourmal (Lifeboat, LLC) |
-| 3:10 PM - 3:25 PM | HDF5 software supply chain | Joradn Henderson (HDFG) |
+| 3:10 PM - 3:25 PM | HDF5 software supply chain | Jordan Henderson (HDFG) |
 | 3:25 PM - 3:40 PM | A machine-readable HDF5 file format specification | Gerd Heber (HDFG) |
 | 3:40 PM - 4:05 PM | HDF5 audit report and mitigation priorities | Gerd Heber (HDFG) |
 | 4:05 PM - 4:30 PM | Discussion |

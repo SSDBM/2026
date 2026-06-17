@@ -63,7 +63,7 @@ The workshop will bring together HDF5 developers, users, integrators, security p
 | Time | Session | Presenter |
 |------|---------|-----------|
 | 1:00 PM - 1:15 PM | Welcome and Introduction | Gerd Heber (HDFG) |
-| 1:15 PM - 1:45 PM | Keynote: Title to be announced | Tracy Ragan (DeployHub) |
+| 1:15 PM - 1:45 PM | Keynote: Open Source Security Is Scientific Data Infrastructure Security | Tracy Ragan (DeployHub) |
 | 1:45 PM - 2:10 PM | HDF5 Security | Scot Breitenfeld (HDFG) |
 | 2:10 PM - 2:35 PM | HDF5 Safety | Gerd Heber (HDFG) |
 | 2:35 PM - 2:45 PM | Coffee Break |

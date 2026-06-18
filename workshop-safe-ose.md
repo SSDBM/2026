@@ -35,16 +35,16 @@ Room: TBD
 <!-- TODO: Replace with the official workshop title and a 1-2 paragraph overview -->
 ## Overview
 
-This half-day workshop is organized in conjunction with SSDBM 2026 by the
-NSF Safe-OSE (Safety, Security, and Privacy of Open-Source Ecosystems) team.
-More details, including the workshop theme, goals, and intended audience,
-will be announced soon.
+This half-day workshop, organized in conjunction with SSDBM 2026 by the [HDF5 SHINES project](https://www.hdfgroup.org/projects/hdf5-shines/), an [award](https://www.nsf.gov/awardsearch/show-award/?AWD_ID=2534078) of the U.S. National Science Foundation Safe-OSE Program, focuses on strengthening the safety, security, and privacy posture of the HDF5 open-source ecosystem. HDF5 is a foundational technology for scientific, engineering, government, and industrial data workflows; its role as a long-lived, self-describing data container makes trust in the HDF5 library, file format, extensions, tools, and supply chain increasingly important.
+
+The workshop will bring together HDF5 developers, users, integrators, security practitioners, data managers, and researchers to examine current and emerging risks, discuss audit findings and mitigation priorities, and identify practical paths toward more secure-by-default HDF5 software and workflows. Topics include HDF5 security, safety, privacy, software supply chain risks, machine-readable file format specifications, and community priorities for future mitigation work. The workshop is intended for anyone who develops, deploys, packages, audits, or depends on HDF5 in scientific computing, high-performance computing, cloud, AI/ML, archival, regulated, or mission-critical environments.
 
 ## Organizers
 
 <!-- TODO: List workshop organizers, affiliations, and contact information -->
-- TBD
-- TBD
+- Scot Breitenfeld (HDFG)
+- Gerd Heber (HDFG)
+- Elena Pourmal (Lifeboat, LLC)
 
 ## Program
 
@@ -59,15 +59,30 @@ will be announced soon.
 | 4:30 PM - 5:00 PM | Closing Discussion |
 
 -->
-The workshop program will be announced closer to the conference date.
+
+| Time | Session | Presenter |
+|------|---------|-----------|
+| 1:00 PM - 1:15 PM | Welcome and Introduction | Gerd Heber (HDFG) |
+| 1:15 PM - 1:45 PM | Keynote: Open Source Security Is Scientific Data Infrastructure Security | Tracy Ragan (DeployHub) |
+| 1:45 PM - 2:10 PM | HDF5 Security | Scot Breitenfeld (HDFG) |
+| 2:10 PM - 2:35 PM | HDF5 Safety | Gerd Heber (HDFG) |
+| 2:35 PM - 2:45 PM | Coffee Break |
+| 2:45 PM - 3:10 PM | HDF5 Privacy | Elena Pourmal (Lifeboat, LLC) |
+| 3:10 PM - 3:25 PM | HDF5 software supply chain | Jordan Henderson (HDFG) |
+| 3:25 PM - 3:40 PM | A machine-readable HDF5 file format specification | Gerd Heber (HDFG) |
+| 3:40 PM - 4:05 PM | HDF5 audit report and mitigation priorities | Gerd Heber (HDFG) |
+| 4:05 PM - 4:30 PM | Discussion |
 
 ## Participation
 
 <!-- TODO: Describe how to attend: is it open to all SSDBM attendees,
      is separate registration required, is there a call for contributions, etc. -->
-Details on how to participate will be announced soon.
+     
+Attendance is either in-person or remote (via Zoom).
+
+The registration will open soon.
 
 ## Contact
 
 <!-- TODO: Add a contact email for workshop questions -->
-For questions about the workshop, please contact the workshop organizers (TBD).
+For questions about the workshop, please contact the [workshop organizers](mailto:gheber@hdfgroup.org,brtnfld@hdfgroup.org,elena.pourmal@lifeboat.llc).

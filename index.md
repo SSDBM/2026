@@ -19,6 +19,7 @@ SSDBM 2026 will be hosted by the San Diego Supercomputer Center (SDSC) at the Un
 
 
 ## Announcements
+- **Registration is now open.** [Register here](https://go.osu.edu/ssdbm26-reg). See the [Registration page](register.html) for details.
 - **Safe-OSE Workshop announced.** A half-day workshop will be held Wednesday, August 12 (afternoon). See the [workshop page](workshop-safe-ose.html).
 - **Paper submissions are now closed.** Notification: June 14, 2026.
 - **Poster submissions are open.** See the [Call for Posters](callposter.html). Deadline: July 1, 2026 (23:59 AoE).
@@ -55,6 +56,9 @@ Yicheng Tu, University of South Florida<br>
 **Proceedings Chair**<br>
 TBD<br>
 
+**Finance Chair**<br>
+Suren Byna, The Ohio State University<br>
+
 **Web and Publicity Chair**<br>
 Jaime Cernuda Garcia<br>
 
@@ -69,3 +73,5 @@ Yongluan Zhou, University of Copenhagen<br>
 **Sponsors and Partners**<br>
 [San Diego Supercomputer Center (SDSC)](https://www.sdsc.edu/)<br>
 [University of California, San Diego](https://ucsd.edu/)<br>
+[The Ohio State University](https://www.osu.edu/)<br>
+[The HDF Group](https://www.hdfgroup.org/)<br>

@@ -56,7 +56,7 @@ Award notifications will be sent by **July 12, 2026**. Selected students should 
 **Topics of Interest**: See the [Call for Papers](callpaper.html) for the full list of topics.
 
 ## Important Dates
-- Submission Deadline: July 1, 2026 (23:59 AoE)
+- Submission Deadline: July 10, 2026 (23:59 AoE)
 - Notification: July 10, 2026
 - Poster Session: evening of August 12, 2026 (Wednesday)
 - Student Travel Award Application Submission Deadline: July 5, 2026

@@ -52,7 +52,7 @@ Any changes? (add/remove names):
 - Abstract submission deadline (main track): May 3, 2026
 - Paper submission deadline (main track): May 3, 2026
 - Short & Demo paper submission deadline: May 3, 2026
-- Poster submission deadline: July 1, 2026
+- Poster submission deadline: July 10, 2026
 - Notification of acceptance (papers): June 14, 2026
 - Notification of acceptance (short/demo): June 14, 2026
 - Notification of acceptance (posters):

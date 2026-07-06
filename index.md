@@ -22,7 +22,7 @@ SSDBM 2026 will be hosted by the San Diego Supercomputer Center (SDSC) at the Un
 - **Registration is now open.** [Register here](https://go.osu.edu/ssdbm26-reg). See the [Registration page](register.html) for details.
 - **Safe-OSE Workshop announced.** A half-day workshop will be held Wednesday, August 12 (afternoon). See the [workshop page](workshop-safe-ose.html).
 - **Paper submissions are now closed.** Notification: June 14, 2026.
-- **Poster submissions are open.** See the [Call for Posters](callposter.html). Deadline: July 1, 2026 (23:59 AoE).
+- **Poster submissions are open.** See the [Call for Posters](callposter.html). Deadline: July 10, 2026 (23:59 AoE).
 - **Student travel awards are available.** Eligible graduate students may apply for the NSF-sponsored SSDBM Student Travel Award by July 5, 2026.
 
 ## Poster Session
@@ -33,7 +33,7 @@ Poster submissions should include a two-page extended abstract and an A0-size po
 
 Graduate students studying at universities in the USA may also apply for the NSF-sponsored SSDBM Student Travel Award, which provides up to **$1200** for eligible travel, accommodation, and meal expenses.
 
-Submit posters through [HotCRP](https://ssdbm26-posters.hotcrp.com/) by **July 1, 2026 (23:59 AoE)**. Full requirements are available in the [Call for Posters](callposter.html).
+Submit posters through [HotCRP](https://ssdbm26-posters.hotcrp.com/) by **July 10, 2026 (23:59 AoE)**. Full requirements are available in the [Call for Posters](callposter.html).
 
 <!--  ## Conference Officers -->
 

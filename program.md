@@ -32,7 +32,8 @@ layout: default
 | 11:00 – 12:30   | Poster lightning talks and announcement of the poster competition       |
 | 12:30 – 2:00    | Lunch                                                                    |
 | 2:00 – 6:00     | [Safe-OSE Workshop](workshop-safe-ose.html) (with a break in the middle)  |
-| 6:00 – 8:00     | Dinner and poster reception                                              |
+| 5:30 – 6:30     | Poster session                                                          |
+| 6:30 – 7:30     | Buffet dinner                                                            |
 
 ### Thursday, August 13
 

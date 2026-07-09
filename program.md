@@ -43,19 +43,20 @@ layout: default
 | 10:00 – 10:30   | Best paper presentation (TBD)                                            |
 | 10:30 – 11:00   | Coffee Break (with optional attendees' choice best poster award)        |
 | 11:00 – 12:30   | Paper Session 1                                                          |
-|                 | &nbsp;&nbsp;&bull;&nbsp;Paper 1: TBD                                     |
-|                 | &nbsp;&nbsp;&bull;&nbsp;Paper 2: TBD                                     |
-|                 | &nbsp;&nbsp;&bull;&nbsp;Paper 3: TBD                                     |
+|                 | &nbsp;&nbsp;&bull;&nbsp;A Seed for Privacy - semi-automatic privacy-revealing data detection in databases and data streams |
+|                 | &nbsp;&nbsp;&bull;&nbsp;BioWeaver: Adaptive Workflow Orchestration for Biomedical Data Integration with Progressive Deep Web Exploration |
+|                 | &nbsp;&nbsp;&bull;&nbsp;On the Impact of Interference from Concurrent Jobs on Checkpointing Performance |
+|                 | &nbsp;&nbsp;&bull;&nbsp;Managing Time in Atemporal Labeled Property Graph Engines: Trade-offs in Representation Strategies |
 | 12:30 – 2:00    | Lunch                                                                    |
 | 2:00 – 3:30     | Paper Session 2                                                          |
-|                 | &nbsp;&nbsp;&bull;&nbsp;Paper 1: TBD                                     |
-|                 | &nbsp;&nbsp;&bull;&nbsp;Paper 2: TBD                                     |
-|                 | &nbsp;&nbsp;&bull;&nbsp;Paper 3: TBD                                     |
+|                 | &nbsp;&nbsp;&bull;&nbsp;HORATIO: Bridging Management and Analysis of Traces at Scale |
+|                 | &nbsp;&nbsp;&bull;&nbsp;Towards Encrypted Data Compression with Computational Storage Drives |
+|                 | &nbsp;&nbsp;&bull;&nbsp;SetGo: Metadata Readiness for Scientific AI Datasets |
 | 3:30 – 4:00     | Coffee Break                                                            |
 | 4:00 – 5:30     | Paper Session 3                                                          |
-|                 | &nbsp;&nbsp;&bull;&nbsp;Paper 1: TBD                                     |
-|                 | &nbsp;&nbsp;&bull;&nbsp;Paper 2: TBD                                     |
-|                 | &nbsp;&nbsp;&bull;&nbsp;Paper 3: TBD                                     |
+|                 | &nbsp;&nbsp;&bull;&nbsp;WADO: A Distributed WORM Storage Service for Asynchronous Data Operations |
+|                 | &nbsp;&nbsp;&bull;&nbsp;Aligning Storage Benchmark Metrics with Application-Level Performance |
+|                 | &nbsp;&nbsp;&bull;&nbsp;Label-Balanced Graph Index for Filtered Approximate Nearest Neighbor Search with Low-Frequency Labels |
 | 5:30 – 5:40     | Closing remarks and SSDBM 2027 announcement                             |
 
 The poster session takes place **Wednesday evening (August 12)**. Graduate students presenting posters are encouraged to apply for the NSF-sponsored [SSDBM Student Travel Award](callposter.html#ssdbm-student-travel-award), which provides up to **$1200** toward travel, accommodation, and meal expenses.

@@ -62,16 +62,16 @@ The workshop will bring together HDF5 developers, users, integrators, security p
 
 | Time | Session | Presenter |
 |------|---------|-----------|
-| 1:00 PM - 1:15 PM | Welcome and Introduction | Gerd Heber (HDFG) |
-| 1:15 PM - 1:45 PM | Keynote: Open Source Security Is Scientific Data Infrastructure Security | Tracy Ragan (DeployHub) |
-| 1:45 PM - 2:10 PM | HDF5 Security | Scot Breitenfeld (HDFG) |
-| 2:10 PM - 2:35 PM | HDF5 Safety | Gerd Heber (HDFG) |
-| 2:35 PM - 2:45 PM | Coffee Break |
-| 2:45 PM - 3:10 PM | HDF5 Privacy | Elena Pourmal (Lifeboat, LLC) |
-| 3:10 PM - 3:25 PM | HDF5 software supply chain | Jordan Henderson (HDFG) |
-| 3:25 PM - 3:40 PM | A machine-readable HDF5 file format specification | Gerd Heber (HDFG) |
-| 3:40 PM - 4:05 PM | HDF5 audit report and mitigation priorities | Gerd Heber (HDFG) |
-| 4:05 PM - 4:30 PM | Discussion |
+| 2:00 PM - 2:15 PM | Welcome and Introduction | Gerd Heber (HDFG) |
+| 2:15 PM - 2:45 PM | Keynote: Open Source Security Is Scientific Data Infrastructure Security | Tracy Ragan (DeployHub) |
+| 2:45 PM - 3:10 PM | HDF5 Security | Scot Breitenfeld (HDFG) |
+| 3:10 PM - 3:35 PM | HDF5 Safety | Gerd Heber (HDFG) |
+| 3:35 PM - 3:45 PM | Coffee Break |
+| 3:45 PM - 4:10 PM | HDF5 Privacy | Elena Pourmal (Lifeboat, LLC) |
+| 4:10 PM - 4:25 PM | HDF5 software supply chain | Jordan Henderson (HDFG) |
+| 4:25 PM - 4:40 PM | A machine-readable HDF5 file format specification | Gerd Heber (HDFG) |
+| 4:40 PM - 5:05 PM | HDF5 audit report and mitigation priorities | Gerd Heber (HDFG) |
+| 5:05 PM - 5:30 PM | Discussion |
 
 ## Participation
 

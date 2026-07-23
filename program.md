@@ -41,7 +41,7 @@ layout: default
 | 8:00 – 9:00     | Registration and breakfast                                              |
 | 9:00 – 10:30    | Paper Session 1                                                          |
 |                 | &nbsp;&nbsp;&bull;&nbsp;HORATIO: Bridging Management and Analysis of Traces at Scale |
-|                 | &nbsp;&nbsp;&bull;&nbsp;Towards Encrypted Data Compression with Computational Storage Drives |
+|                 | &nbsp;&nbsp;&bull;&nbsp;Secure Data Compression Empowered by Computational Storage |
 |                 | &nbsp;&nbsp;&bull;&nbsp;SetGo: Metadata Readiness for Scientific AI Datasets |
 | 10:30 – 11:00   | Coffee Break                                                            |
 | 11:00 – 12:30   | Paper Session 2                                                          |

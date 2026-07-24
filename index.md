@@ -19,6 +19,7 @@ SSDBM 2026 will be hosted by the San Diego Supercomputer Center (SDSC) at the Un
 
 
 ## Announcements
+- **Keynote announced.** Arun Kumar (UC San Diego) will give the keynote on Thursday, August 13: *Reimagining AI Systems for Science through the Lens of Data Systems*. See the [Keynotes page](keynotes.html).
 - **Registration is now open.** [Register here](https://go.osu.edu/ssdbm26-reg). See the [Registration page](register.html) for details.
 - **Safe-OSE Workshop announced.** A half-day workshop will be held Wednesday, August 12 (afternoon). See the [workshop page](workshop-safe-ose.html).
 - **Paper submissions are now closed.** Notification: June 14, 2026.

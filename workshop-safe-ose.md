@@ -80,7 +80,7 @@ The workshop will bring together HDF5 developers, users, integrators, security p
      
 Attendance is either in-person or remote (via Zoom).
 
-The registration will open soon.
+Registration is required. Register [here](https://ssdbm.org/2026/register).
 
 ## Contact
 

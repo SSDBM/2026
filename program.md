@@ -26,6 +26,7 @@ layout: default
 | 10:30 – 11:00   | **Registration, welcome, and coffee**                                   |
 | 11:00 – 12:30   | **Paper Session** (25 min each)                                          |
 |                 | &bull;&nbsp;HORATIO: Bridging Management and Analysis of Traces at Scale |
+|                 | &bull;&nbsp;Towards Encrypted Data Compression with Computational Storage Drives |
 |                 | &bull;&nbsp;SetGo: Metadata Readiness for Scientific AI Datasets         |
 | 12:30 – 2:00    | **Lunch**                                                               |
 | 2:00 – 5:30     | **[Safe-OSE Workshop](workshop-safe-ose.html)** (with a break)          |

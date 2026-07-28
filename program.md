@@ -59,7 +59,7 @@ layout: default
 | 3:30 – 3:40     | Closing remarks and SSDBM 2027 announcement                             |
 | 3:40 – 4:00     | HPC Gelato                                                              |
 
-The poster session takes place **Thursday (August 13)**. Graduate students presenting posters are encouraged to apply for the NSF-sponsored [SSDBM Student Travel Award](callposter.html#ssdbm-student-travel-award), which provides up to **$1200** toward travel, accommodation, and meal expenses.
+The poster session takes place **Thursday (August 13)**. Graduate students presenting posters are encouraged to apply for the NSF-sponsored [SSDBM Student Travel Award](callposter.html#ssdbm-student-travel-award), which provides up to **$1500** toward travel, accommodation, and meal expenses.
 
 The schedule may be subject to last-minute changes; please check back for updates as the conference approaches.
 

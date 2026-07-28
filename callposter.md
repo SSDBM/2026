@@ -29,7 +29,7 @@ Submission site: [https://ssdbm26-posters.hotcrp.com/](https://ssdbm26-posters.h
 
 ## SSDBM Student Travel Award
 
-The SSDBM Student Travel Award is sponsored by the National Science Foundation (NSF). Awards provide up to **$1200** for eligible travel, accommodation, and meal expenses. Receipts are required for all expenses.
+The SSDBM Student Travel Award is sponsored by the National Science Foundation (NSF). Awards provide up to **$1500** for eligible travel, accommodation, and meal expenses. Receipts are required for all expenses.
 
 The award is open to graduate students who are studying at a university in the USA. SSDBM expects to make 8 to 10 awards.
 
@@ -58,7 +58,7 @@ Award notifications will be sent by **July 12, 2026**. Selected students should 
 ## Important Dates
 - Submission Deadline: July 10, 2026 (23:59 AoE)
 - Notification: July 10, 2026
-- Poster Session: evening of August 12, 2026 (Wednesday)
+- Poster Session: August 13, 2026 (Thursday)
 - Student Travel Award Application Submission Deadline: July 5, 2026
 - Student Travel Award Notification: July 12, 2026
 

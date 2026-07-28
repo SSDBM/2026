@@ -32,7 +32,7 @@ SSDBM 2026 will include a poster session for ongoing research, emerging ideas, a
 
 Poster submissions should include a two-page extended abstract and an A0-size poster draft combined into a single PDF. Student first authors may opt in to the student poster competition during submission.
 
-Graduate students studying at universities in the USA may also apply for the NSF-sponsored SSDBM Student Travel Award, which provides up to **$1200** for eligible travel, accommodation, and meal expenses.
+Graduate students studying at universities in the USA may also apply for the NSF-sponsored SSDBM Student Travel Award, which provides up to **$1500** for eligible travel, accommodation, and meal expenses.
 
 Submit posters through [HotCRP](https://ssdbm26-posters.hotcrp.com/) by **July 10, 2026 (23:59 AoE)**. Full requirements are available in the [Call for Posters](callposter.html).
 
@@ -48,14 +48,8 @@ Christine Kirkpatrick, San Diego Supercomputer Center, UC San Diego<br>
 Hari Devarajan, Lawrence Livermore National Laboratory<br>
 Diana Moise, Hewlett Packard Enterprise<br>
 
-**Short and Demo Paper Co-chairs**<br>
-TBD<br>
-
 **Student Posters Competition Chair**<br>
 Yicheng Tu, University of South Florida<br>
-
-**Proceedings Chair**<br>
-TBD<br>
 
 **Finance Chair**<br>
 Suren Byna, The Ohio State University<br>

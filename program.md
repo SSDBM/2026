@@ -26,7 +26,7 @@ layout: default
 | 10:30 – 11:00   | **Registration, welcome, and coffee**                                   |
 | 11:00 – 12:30   | **Paper Session** (25 min each)                                          |
 |                 | &bull;&nbsp;HORATIO: Bridging Management and Analysis of Traces at Scale |
-|                 | &bull;&nbsp;Towards Encrypted Data Compression with Computational Storage Drives |
+|                 | &bull;&nbsp;On the Impact of Interference from Concurrent Jobs on Checkpointing Performance |
 |                 | &bull;&nbsp;SetGo: Metadata Readiness for Scientific AI Datasets         |
 | 12:30 – 2:00    | **Lunch**                                                               |
 | 2:00 – 5:30     | **[Safe-OSE Workshop](workshop-safe-ose.html)** (with a break)          |
@@ -38,7 +38,6 @@ layout: default
 | --------------- | ----------------------------------------------------------------------- |
 | 8:30 – 9:00     | **Registration, breakfast, and welcome**                                |
 | 9:00 – 10:30    | **Paper Session** (25 min each)                                          |
-|                 | &bull;&nbsp;On the Impact of Interference from Concurrent Jobs on Checkpointing Performance |
 |                 | &bull;&nbsp;A Seed for Privacy - semi-automatic privacy-revealing data detection in databases and data streams |
 |                 | &bull;&nbsp;BioWeaver: Adaptive Workflow Orchestration for Biomedical Data Integration with Progressive Deep Web Exploration |
 |                 | &bull;&nbsp;Managing Time in Atemporal Labeled Property Graph Engines: Trade-offs in Representation Strategies |

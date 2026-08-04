@@ -24,7 +24,8 @@ layout: default
 | Time            | Session                                                                 |
 | --------------- | ----------------------------------------------------------------------- |
 | 10:30 – 11:00   | **Registration, welcome, and coffee**                                   |
-| 11:00 – 12:30   | **Paper Session** (25 min each)                                          |
+| 11:00 – 12:30   | **Paper Session:** Performance and Infrastructure for Scientific Data Systems (25 min each) |
+|                 | Session chair: Radita Liam                                               |
 |                 | &bull;&nbsp;HORATIO: Bridging Management and Analysis of Traces at Scale |
 |                 | &bull;&nbsp;On the Impact of Interference from Concurrent Jobs on Checkpointing Performance |
 |                 | &bull;&nbsp;SetGo: Metadata Readiness for Scientific AI Datasets         |
@@ -37,7 +38,8 @@ layout: default
 | Time            | Session                                                                 |
 | --------------- | ----------------------------------------------------------------------- |
 | 8:30 – 9:00     | **Registration, breakfast, and welcome**                                |
-| 9:00 – 10:30    | **Paper Session** (25 min each)                                          |
+| 9:00 – 10:30    | **Paper Session:** Intelligent Scientific Data Management (25 min each)  |
+|                 | Session chair: Ray Andrew                                                |
 |                 | &bull;&nbsp;A Seed for Privacy - semi-automatic privacy-revealing data detection in databases and data streams |
 |                 | &bull;&nbsp;BioWeaver: Adaptive Workflow Orchestration for Biomedical Data Integration with Progressive Deep Web Exploration |
 |                 | &bull;&nbsp;Managing Time in Atemporal Labeled Property Graph Engines: Trade-offs in Representation Strategies |
@@ -46,7 +48,8 @@ layout: default
 | 11:30 – 12:30   | **Keynote:** [Reimagining AI Systems for Science through the Lens of Data Systems](keynotes.html) (Arun Kumar, UC San Diego) |
 | 12:30 – 1:00    | **Best paper presentation:** Secure Data Compression Empowered by Computational Storage |
 | 1:00 – 2:00     | **Lunch**                                                               |
-| 2:00 – 3:30     | **Paper Session** (25 min each)                                          |
+| 2:00 – 3:30     | **Paper Session:** Scalable Storage and Data Access Systems (25 min each) |
+|                 | Session chair: Jae-Seung Yeom                                            |
 |                 | &bull;&nbsp;WADO: A Distributed WORM Storage Service for Asynchronous Data Operations |
 |                 | &bull;&nbsp;Aligning Storage Benchmark Metrics with Application-Level Performance |
 |                 | &bull;&nbsp;Label-Balanced Graph Index for Filtered Approximate Nearest Neighbor Search with Low-Frequency Labels |

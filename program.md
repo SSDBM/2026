@@ -27,7 +27,7 @@ layout: default
 | 11:00 – 12:30   | **Paper Session:** Performance and Infrastructure for Scientific Data Systems (25 min each) |
 |                 | Session chair: Radita Liam                                               |
 |                 | &bull;&nbsp;HORATIO: Bridging Management and Analysis of Traces at Scale |
-|                 | &bull;&nbsp;On the Impact of Interference from Concurrent Jobs on Checkpointing Performance |
+|                 | &bull;&nbsp;BioWeaver: Adaptive Workflow Orchestration for Biomedical Data Integration with Progressive Deep Web Exploration |
 |                 | &bull;&nbsp;SetGo: Metadata Readiness for Scientific AI Datasets         |
 | 12:30 – 2:00    | **Lunch**                                                               |
 | 2:00 – 5:30     | **[Safe-OSE Workshop](workshop-safe-ose.html)** (with a break)          |
@@ -41,7 +41,7 @@ layout: default
 | 9:00 – 10:30    | **Paper Session:** Intelligent Scientific Data Management (25 min each)  |
 |                 | Session chair: Ray Andrew                                                |
 |                 | &bull;&nbsp;A Seed for Privacy - semi-automatic privacy-revealing data detection in databases and data streams |
-|                 | &bull;&nbsp;BioWeaver: Adaptive Workflow Orchestration for Biomedical Data Integration with Progressive Deep Web Exploration |
+|                 | &bull;&nbsp;On the Impact of Interference from Concurrent Jobs on Checkpointing Performance |
 |                 | &bull;&nbsp;Managing Time in Atemporal Labeled Property Graph Engines: Trade-offs in Representation Strategies |
 | 10:30 – 10:40   | **Poster lightning talks** (5 posters, 1&ndash;2 min each)               |
 | 10:40 – 11:30   | **Group picture, coffee break, and poster session**                     |
